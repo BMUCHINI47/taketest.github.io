@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.45478in" height="1.87562in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 703.03 296"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:#FA931D;stroke-width:1.64;stroke-miterlimit:2.61313}
+    .str2 {stroke:#0058A7;stroke-width:0.47;stroke-miterlimit:2.61313}
+    .str0 {stroke:#0071BD;stroke-width:0.47;stroke-miterlimit:2.61313}
+    .str1 {stroke:#D77F59;stroke-width:0.47;stroke-miterlimit:2.61313}
+    .fil2 {fill:#0058A7}
+    .fil0 {fill:#0071BD}
+    .fil1 {fill:#D77F59}
+    .fil3 {fill:#FA931D}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M160.3 169.59l108.69 -137.02 133.23 164.1c139.52,40.82 214.74,20.56 257.6,-30.45l-69.69 -99.64 -70.17 -11.29 0.44 -55.05 -53.08 0.86 0.44 104.77 -16.67 -0.05 -0.36 -61.67 -189.25 -30.45 -101.18 155.89z"/>
+  <rect class="fil1 str1" x="232.87" y="93.84" width="29.36" height="32.73"/>
+  <rect class="fil1 str1" x="232.87" y="132.79" width="29.36" height="32.73"/>
+  <rect class="fil1 str1" x="268.44" y="93.84" width="29.36" height="32.73"/>
+  <rect class="fil1 str1" x="268.44" y="132.79" width="29.36" height="32.73"/>
+  <polygon class="fil2 str2" points="30.17,182.77 125.69,52.39 185.31,104.16 232.84,38.35 122.03,38.26 "/>
+  <rect class="fil1 str1" x="104.86" y="93.22" width="14.9" height="23.48"/>
+  <rect class="fil1 str1" x="126.6" y="93.22" width="14.9" height="23.48"/>
+  <rect class="fil1 str1" x="104.86" y="122.91" width="14.9" height="23.48"/>
+  <rect class="fil1 str1" x="126.6" y="122.91" width="14.9" height="23.48"/>
+  <path class="fil3 str3" d="M0.43 229.72c253.88,-157.35 544.82,136.2 680.84,-64.83 -79.9,224.11 -422.22,-17.27 -680.84,64.83z"/>
+  <path class="fil3 str3" d="M378.62 265.8c170.7,58.41 278.13,29.56 323.64,-84.65 -56.1,95.93 -168.91,117.7 -323.64,84.65z"/>
+ </g>
+</svg>
